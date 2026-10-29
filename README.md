@@ -1,7 +1,6 @@
 # Git Demo Repo
 This is a sample repository for the GitHub training course.
 
-
 ## How To Work With Git
 1. git checkout main
 2. git pull
