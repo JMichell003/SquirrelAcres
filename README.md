@@ -1,4 +1,4 @@
-# Git Demo Repo
+# Git Demo Repository
 This is a sample repository for the GitHub training course.
 
 ## How To Work With Git
