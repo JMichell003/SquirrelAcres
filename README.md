@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is a training Repo for Github.
+This is a sample app Repo for the Github course.
 
 
 ## How To Work With Git
