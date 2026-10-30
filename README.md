@@ -3,6 +3,7 @@ This is a sample repository for the GitHub training course.
 
 ## GUIs
 * This change made by VSCode
+* This change made by Visual Studio 2026
 
 ## How To Work With Git
 1. git checkout main
